@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мой браузер</string>
+    <string name="set_text">Введите адрес сайта</string>
+    <string name="send_btn">Отправить</string>
+</resources>
